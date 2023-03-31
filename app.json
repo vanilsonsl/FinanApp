@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mediaTruckApp",
-    "slug": "mediaTruckApp",
+    "name": "finanApp",
+    "slug": "finanApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
