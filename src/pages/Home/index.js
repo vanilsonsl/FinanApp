@@ -32,7 +32,7 @@ const list = [
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Header name="Vanilson Lima"/>
+      <Header name="Rodrido F"/>
 
       <History saldo="9.000,00" gastos="555,00" />
 
